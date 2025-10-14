@@ -1,6 +1,6 @@
-An Introduction to High-Fidelity Audio
+# An Introduction to High-Fidelity Audio
 
-!(https://www.moon-audio.com/cdn/shop/articles/assets_2F48d1cdcd52ec4d289f1ef8c4f75da167_2Fc8758ef939114905a0ea50162d0f8d14_1200x1200_crop_center.jpg?v=1741113589)[url for an image of a high-end audio setup, like headphones or a turntable]
+![url for an image of various high-end headphones](https://www.moon-audio.com/cdn/shop/articles/assets_2F48d1cdcd52ec4d289f1ef8c4f75da167_2Fc8758ef939114905a0ea50162d0f8d14_1200x1200_crop_center.jpg?v=1741113589)
 
 
 
@@ -18,8 +18,15 @@ A few months ago, I had begun to question just how much I was able to extract fr
 Digital audio is an audio format which is encoded in binary(1s and 0s). The quality of a digital file is primarily determined by two factors: sample rate and bit depth. 
 Sample Rate: The number of times per second the audio wave is measured. 
 Bit Depth: This determines the amount of information stored in each sample bit depth is the data “recorded” within the seconds, for example, a CD captures 16 bits per sample
-Streaming services offer a variety of quality with the best in mind being, Tidal, Qobuz, and Apple, which within the world of audiophiles is often debated as the human ear cannot interpret differences above a certain rate. 
 
+
+#### Streaming Services: 
+Streaming services offer  a variety of quality with the "best" in mind being, Tidal, Qobuz, and Apple, which within the world of audiophiles is often debated as the human ear cannot interpret differences above a certain rate. In no particular order here is a list of streaming services, all which offer premium audio codecs.
+- Apple Music
+- Spotify
+- Youtube Music
+- Tidal
+- Qobuz
 
 ## DAC & Amp
 
@@ -41,13 +48,9 @@ Closed-back headphones are designed with earcups that make a seal around the ear
 Open-back headphones have openings that allow air and sound to pass through. This creates a natural, spacious listening experience. However, they don’t isolate sound, because of which, it is generally recommended for quiet, private listening environments to fully appreciate the detailed experience. 
 
 
-
-
 - [Audio Science Review] (https://www.audiosciencereview.com/forum/index.php)[Link to a popular audiophile community or forum]
 - [What Hi-Fi?] (https://www.whathifi.com/us) [Link to a reputable website for technical reviews and measurements]
 - [Moon Audio] (https://www.moon-audio.com/pages/audiophile-terms-guide) [Link to a glossary of common audiophile terms]
 
 ## References
-1. [Reference a foundational book or article on audio engineering.]
-2. [Reference a key study on psychoacoustics.]
-3. [Reference a well-regarded guide to setting up a hi-fi system.]
+1. [Well-regarded guide to setting up a hi-fi system.] (https://www.whathifi.com/advice/how-to-build-the-perfect-hi-fi-system)
