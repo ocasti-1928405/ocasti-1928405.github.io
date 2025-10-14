@@ -1,6 +1,6 @@
 # Topic Title: An Introduction to High-Fidelity Audio
 
-!(https://www.moon-audio.com/cdn/shop/articles/assets_2F48d1cdcd52ec4d289f1ef8c4f75da167_2Fc8758ef939114905a0ea50162d0f8d14_1200x1200_crop_center.jpg?v=1741113589)[url for an image of a high-end audio setup, like headphones or a turntable]
+!(https://www.moon-audio.com/cdn/shop/articles/assets_2F48d1cdcd52ec4d289f1ef8c4f75da167_2Fc8758ef939114905a0ea50162d0f8d14_1200x1200_crop_center.jpg?v=1741113589) [url for an image of a high-end audio setup, like headphones or a turntable]
 
 [A short description of what an audiophile is and the pursuit of high-fidelity (hi-fi) sound reproduction.]
 A short description / abstract of the topic you choose. For the text here and below, feel free to use **bold** and *italic* fonts, 
