@@ -4,7 +4,7 @@
 
 
 
-An audiophile is a person who is passionate about high-quality audio. Their goal is to reproduce a musical recording as faithfully as possible, hearing the music exactly as the artist and audio engineer intended. This pursuit, known as high-fidelity or "hi-fi" audio, involves carefully selecting each component of the audio chain, from the digital file to the final transducer that creates the sound waves.
+An *audiophile* is a person who is passionate about high-quality audio. Their goal is to reproduce a musical recording as faithfully as possible, hearing the music exactly as the artist and audio engineer intended. This pursuit, known as *high-fidelity* or "hi-fi" audio, involves carefully selecting each component of the audio chain, from the digital file to the final transducer that creates the sound waves.
 A few months ago, I had begun to question just how much I was able to extract from my listening experience. I asked myself, there must be more than louder = better, right? So I conducted some research and dove into the rabbit hole that is the world of audiophiles. There are various types of headphones suitable for all sorts of listening experiences.
 
 
@@ -12,12 +12,12 @@ A few months ago, I had begun to question just how much I was able to extract fr
 ## The Source
 
 
-“Garbage in, Garbage out.” In the world of audio, this phrase means that poor source material cannot be fixed by even the best-sounding audio systems. The quality of the original recording, mixing, and mastering is the absolute foundation of good sound. If the source file itself is low quality, no amount of expensive gear can magically add back the lost detail. Therefore, the playback format and the quality of the digital file will always be the potential weak link when aiming for hi-fi audio.
+*“Garbage in, Garbage out.”* In the world of audio, this phrase means that poor source material cannot be fixed by even the best-sounding audio systems. The quality of the original recording, mixing, and mastering is the absolute foundation of good sound. If the source file itself is low quality, no amount of expensive gear can magically add back the lost detail. Therefore, the playback format and the quality of the digital file will always be the potential weak link when aiming for hi-fi audio.
 
 ### Digital Audio
 Digital audio is an audio format which is encoded in binary(1s and 0s). The quality of a digital file is primarily determined by two factors: sample rate and bit depth. 
-Sample Rate: The number of times per second the audio wave is measured. 
-Bit Depth: This determines the amount of information stored in each sample bit depth is the data “recorded” within the seconds, for example, a CD captures 16 bits per sample
+**Sample Rate:** The number of times per second the audio wave is measured. 
+**Bit Depth:** This determines the amount of information stored in each sample bit depth is the data “recorded” within the seconds, for example, a CD captures 16 bits per sample
 
 
 #### Streaming Services: 
@@ -30,27 +30,30 @@ Streaming services offer  a variety of quality with the "best" in mind being, Ti
 
 ## DAC & Amp
 
-A DAC & Amp are secondary audio equipment that most agree can improve the potential of headphones. A DAC, or Digital-to-Analog Converter, can come in the form of an external or internal component. Most modern devices, from laptops to phones, have a built-in internal DAC. Its job is to take the digital 1s and 0s from your audio file and convert them into an analog electrical signal that headphones or speakers can play. An amplifier (Amp) provides additional power to “drive” the headphones. In this scenario, “drive” refers to the amplifier supplying the necessary electrical power to move the components inside the headphones to produce sound.
+A *DAC & Amp* are secondary audio equipment that most agree can improve the potential of headphones. A DAC, or *Digital-to-Analog Converter*, can come in the form of an external or internal component. Most modern devices, from laptops to phones, have a built-in internal DAC. Its job is to take the digital 1s and 0s from your audio file and convert them into an analog electrical signal that headphones or speakers can play. An amplifier (Amp) provides additional power to “drive” the headphones. In this scenario, “drive” refers to the amplifier supplying the necessary electrical power to move the components inside the headphones to produce sound.
 
 ### DAC (Digital-to-Analog Converter)
-
+![External DAC](https://cdn.thewirecutter.com/wp-content/media/2024/01/heaphoneamps-2048px-dacs-2x1-1.jpg?width=2048&quality=75&crop=2:1&auto=webp)
 While nearly every digital device has a DAC, they are often built to be just "good enough" and are susceptible to electrical interference from other components inside the device. A dedicated, external DAC is designed to do one job, to convert the digital signal to an analog one with as much accuracy and as little noise or distortion as possible. This results in a cleaner, more detailed, and more accurate representation of the original recording.
 
 ### Amplification
-
-The analog signal that comes out of a DAC is very weak. An amplifier takes that clean signal and boosts its power. This is crucial because different headphones require different amounts of power to sound their best. Headphones with high impedance or low sensitivity are "harder to drive" and require a more powerful amplifier to reach an appropriate volume and to properly control the driver for tight bass and clear sound. Amplifiers come in various forms, including dedicated headphone amps, large speaker amps, and integrated units that combine multiple functions.
+![AMP](https://cdn.thewirecutter.com/wp-content/media/2024/01/heaphoneamps-2048px-ifi.jpg?auto=webp&quality=75&width=1024)
+The analog signal that comes out of a DAC is very weak. An *amplifier* takes that clean signal and boosts its power. This is crucial because different headphones require different amounts of power to sound their best. Headphones with high impedance or low sensitivity are "harder to drive" and require a more powerful amplifier to reach an appropriate volume and to properly control the driver for tight bass and clear sound. Amplifiers come in various forms, including dedicated headphone amps, large speaker amps, and integrated units that combine multiple functions.
 
 
 ## Closed-back vs. Open-back Headphones
 
-Closed-back headphones are designed with earcups that make a seal around the ears. This design gives great noise isolation, blocking out the external world, along with the added bonus of preventing your music from “leaking out”. This seal creates a more pronounced bass response, making them ideal for public use. 
+*Closed-back headphones* are designed with earcups that make a seal around the ears. This design gives great noise isolation, blocking out the external world, along with the added bonus of preventing your music from “leaking out”. This seal creates a more pronounced bass response, making them ideal for <ins>public use.</ins> 
 
-Open-back headphones have openings that allow air and sound to pass through. This creates a natural, spacious listening experience. However, they don’t isolate sound, because of which, it is generally recommended for quiet, private listening environments to fully appreciate the detailed experience. 
+*Open-back headphones* have openings that allow air and sound to pass through. This creates a natural, spacious listening experience. However, they don’t isolate sound, because of which, it is generally recommended for quiet, <ins>private listening environments</ins> to fully appreciate the detailed experience. 
 
-
-- [Audio Science Review] (https://www.audiosciencereview.com/forum/index.php)[Link to a popular audiophile community or forum]
+### Further Reading
+- [Audio Science Review] (https://www.audiosciencereview.com/forum/index.php) [Link to a popular audiophile community or forum]
 - [What Hi-Fi?] (https://www.whathifi.com/us) [Link to a reputable website for technical reviews and measurements]
 - [Moon Audio] (https://www.moon-audio.com/pages/audiophile-terms-guide) [Link to a glossary of common audiophile terms]
 
 ## References
 1. [Well-regarded guide to setting up a hi-fi system.] (https://www.whathifi.com/advice/how-to-build-the-perfect-hi-fi-system)
+[Image Reference] (https://www.moon-audio.com/blogs/expert-advice/best-audiophile-headphones-by-price-point?srsltid=AfmBOorm7NfsuMlqBMG7X7IIJ8vcm0h83m5CHj1arw2QIA1cVUK3JfT0)
+2. [DAC Reference] (https://cdn.thewirecutter.com/wp-content/media/2024/01/heaphoneamps-2048px-dacs-2x1-1.jpg?width=2048&quality=75&crop=2:1&auto=webp)
+3. [AMP Reference] (https://cdn.thewirecutter.com/wp-content/media/2024/01/heaphoneamps-2048px-ifi.jpg?auto=webp&quality=75&width=1024)
