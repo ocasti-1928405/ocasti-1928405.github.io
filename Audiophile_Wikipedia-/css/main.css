@@ -1,0 +1,181 @@
+@import url('https://fonts.googleapis.com/css2?family=Lato:wght@400;700&family=Montserrat:wght@600;700&display=swap');
+/* Add a black background color to the top navigation */
+.topnav {
+  background-color: #1c1c1c; /* Darker, more subtle bar */
+  border-bottom: 1px solid #333;
+  overflow: hidden;
+  display: flex;          
+  justify-content: center; 
+}
+
+/* Style the links inside the navigation bar */
+.topnav a {
+float: left;
+  display: block;
+  color: #D4AF37; 
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+  font-size: 16px; 
+  /* 4. Add a smooth transition for the hover effect */
+  transition: all 0.2s ease-in-out;
+  
+}
+
+
+/* Change the color of links on hover */
+.topnav a:hover {
+  text-decoration: underline; /* Added link hover */
+  color: #ecac08; /* Brighter gold */
+
+  
+}
+
+/* Add an active class to highlight the current page */
+.topnav a.active {
+ color: #ecac08; 
+  font-weight: bolder;
+}
+
+.topnav .icon {
+  display: none;
+}
+
+
+/* Style for page content */
+.content {
+  padding: 16px;
+  font-size: 16px; 
+  line-height: 1.8; /* Added for readability */
+  max-width: 960px; 
+  margin: 23px auto; /* Added: Centers the content block */
+}
+
+.content a {
+  color: #D4AF37;
+  text-decoration: none;
+  font-weight: bold;
+  /* 4. Add smooth transition for hover */
+  transition: all 0.2s ease-in-out;
+}
+
+.content a:hover {
+  color: #ecac08; /* Brighter gold */
+  text-decoration: underline; /* Underline on hover is good for body links */
+}
+
+/* When the screen is less than 800 pixels wide */
+@media screen and (max-width: 800px) {
+  .topnav a:not(.active) {
+    display: none;
+  }
+
+  /* Show the icon that should open and close the topnav */
+  .topnav a.icon {
+    float: right;
+    display: block;
+  }
+}
+
+div.container {
+  text-align: left;
+  color: gold;
+}
+
+ul.myUL {
+  display: inline-block;
+  text-align: left;
+}
+.Info {
+  background-color: #D4AF37;
+  border-left: 6px solid #D4AF37;
+}
+
+
+@media screen and (max-width: 800px) {
+  .topnav.responsive {
+    position: relative;
+  }
+
+  .topnav.responsive a.icon {
+    position: absolute;
+    right: 0;
+    top: 0;
+  }
+
+  .topnav.responsive a {
+    float: none;
+    display: block;
+    text-align: left;
+  }
+}
+
+/* Page background: dark color */
+body {
+  margin: 0;
+  background-color: #1E1E1E; 
+  color: #F5F5F5;
+  font-family: 'Lato', -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif; 
+
+}
+
+h1, h2, h3, h4, h5, h6 {
+  font-family: 'Montserrat', sans-serif;
+  color: #D4AF37; /* Amber accent color */
+  font-weight: 700;
+  /* Adds more space above the heading than below it */
+  margin-top: 40px;  
+  margin-bottom: 15px;
+}
+
+* {box-sizing: border-box}
+
+/* Container needed to position the overlay. Adjust the width as needed */
+.container {
+  position: relative;
+  width: 50%;
+  max-width: 700px;
+}
+
+/* Make the image to responsive */
+.image {
+  display: block;
+  width: 100%;
+  height: auto;
+}
+
+
+
+.show-and-tell {
+  text-align: center;
+  margin-top: 20px; 
+  padding: 24px;
+  border-top: 1px solid #444; /* A clean line to separate the section */
+  border-bottom: 1px solid #444;
+}
+
+/* Styles the image */
+.show-and-tell img {
+  max-width: 500px; /* Controls the max size of the image */
+  width: 100%; /* Makes the image responsive */
+  height: auto;
+  border-radius: 8px; /* Softens the corners */
+}
+
+/* Styles the headphone title */
+.show-and-tell h3 {
+  color: #D4AF37; /* Bright white for the title */
+  margin-top: 20px;
+  margin-bottom: 5px;
+  font-size: 20px;
+}
+
+/* Styles the caption text */
+.show-and-tell p {
+  color: #F5F5F5; /* Slightly dimmer text for the description */
+  font-size: 16px;
+  line-height: 1.8;
+  max-width: 600px; 
+  margin-left: auto; /* Centers the text block */
+  margin-right: auto;
+}
