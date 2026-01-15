@@ -2,9 +2,9 @@
 
 UniversityofWashington@example.com
 http://www.uwexample.com
-http://www.linkedin.com/in/uwexample
+http://www.linkedin.com/uwexample
 
-> "Passionate about leveraging spatial data to solve real-world urban challenges."
+> "Passionate about learning spatial data to solve real-world challenges."
 
 
 # Summary
