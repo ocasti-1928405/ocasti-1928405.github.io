@@ -1,5 +1,11 @@
 # Oscar Castillo
 
+UniversityofWashington@example.com
+http://www.uwexample.com
+http://www.linkedin.com/in/uwexample
+
+> "Passionate about leveraging spatial data to solve real-world urban challenges."
+
 
 # Summary
 
@@ -17,3 +23,10 @@ Assisted the planning department by updating and maintaining the city’s geospa
 
 [University of Washington]: https://www.washington.edu/
 [City of Bellevue]: https://www.bellevuewa.gov/
+
+
+![Profile Image](https://via.placeholder.com/150)
+UniversityofWashington@example.com
+http://www.uwexample.com
+http://www.linkedin.com/in/yourname
+
