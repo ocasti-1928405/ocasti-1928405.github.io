@@ -4,7 +4,7 @@ UniversityofWashington@example.com
 http://www.uwexample.com
 http://www.linkedin.com/uwexample
 
-> "Passionate about learning spatial data to solve real-world challenges."
+> "Passionate Geography Data Science Major learning about spatial data to solve real-world challenges."
 
 
 # Summary
